@@ -83,11 +83,19 @@ while True:
 
 ⸻
 
-📊 GitHub Stats
+## 📊 Meu GitHub
 
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=muriidias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriidias&layout=compact&langs_count=7&theme=tokyonight"/>
+
+<img src="https://komarev.com/ghpvc/?username=muriidias&label=Visualizações%20do%20perfil&style=for-the-badge" />
+
+<br><br>
+
+⭐ Sempre desenvolvendo novos projetos  
+🐍 Foco em Python e automação  
+🌐 Explorando desenvolvimento web  
+🚀 Construindo meu portfólio profissional
+
 </div>
 
 ⸻
