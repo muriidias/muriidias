@@ -1,156 +1,161 @@
 <div align="center">
 
-👨‍💻 Murillo Sousa Dias
+Murillo Dias
 
-Desenvolvedor • Automação • Sistemas • Web
+Software Developer • Automation • Web Development
 
-Transformando ideias em soluções digitais. 🚀
+Desenvolvendo soluções digitais através de código, automação e tecnologia.
 
-<img src="https://komarev.com/ghpvc/?username=muriidias&label=Visualizações%20do%20perfil&style=for-the-badge" />
+<br>
 </div>
 
 ⸻
 
-👋 Sobre mim
+👨‍💻 Sobre mim
 
-Olá! Eu sou Murillo Sousa Dias, apaixonado por tecnologia, desenvolvimento e criação de soluções digitais.
+Sou Murillo Dias, desenvolvedor focado na criação de soluções digitais que simplificam processos e resolvem problemas reais.
 
-💻 Desenvolvo sistemas, sites e ferramentas de automação.
+Atualmente, desenvolvo projetos envolvendo sistemas de gestão, desenvolvimento web e automação, buscando combinar interfaces modernas com funcionalidades práticas.
 
-⚙️ Gosto de transformar processos manuais em soluções mais rápidas e inteligentes.
+Tenho interesse especial em transformar tarefas manuais e repetitivas em processos automatizados, além de desenvolver sistemas que ajudem empresas a organizar suas operações.
 
-🎨 Também possuo experiência com design e criação de interfaces, unindo programação e criatividade nos meus projetos.
-
-📚 Atualmente estou aprimorando meus conhecimentos e construindo projetos para expandir cada vez mais meu portfólio.
+📍 Brasil
+💻 Desenvolvimento de Software
+⚙️ Automação de Processos
+🌐 Desenvolvimento Web
+🚀 Construindo soluções para problemas reais
 
 ⸻
 
-🚀 Tecnologias & Ferramentas
+⚡ Stack & Ferramentas
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
 </div>
 <br>
 <div align="center">
+
+Python • HTML • CSS • JavaScript • Git • GitHub
+
 </div>
 
 ⸻
 
-💼 Projetos em Destaque
+🚀 Projetos em Destaque
+
+📊 Sistema de Gestão Empresarial
+
+Plataforma desenvolvida para centralizar e simplificar a gestão de pequenas empresas.
+
+Um sistema pensado para reunir diferentes áreas de uma empresa em um único ambiente, facilitando o acompanhamento das operações e reduzindo processos manuais.
+
+Principais recursos
+
+Dashboard Clientes Produtos Pedidos Financeiro Orçamentos
+
+Funcionalidades
+
+* Dashboard com informações importantes do negócio
+* Cadastro e gerenciamento de clientes
+* Gerenciamento de produtos
+* Controle de pedidos
+* Controle financeiro
+* Criação e gerenciamento de orçamentos
+* Geração de documentos
+* Organização das operações em um único sistema
+
+🚧 Projeto sendo preparado para publicação.
+
+⸻
 
 🎨 Studio MD Toolkit
 
-Ferramentas de automação desenvolvidas para otimizar tarefas relacionadas a design e produção de conteúdo.
+Ferramentas desenvolvidas para automatizar processos relacionados à produção de conteúdo e design.
 
-⚡ Funcionalidades
+Projeto criado utilizando Python com o objetivo de eliminar tarefas repetitivas e agilizar processos.
+
+Stack
+
+Python Automation Image Processing
+
+Funcionalidades
 
 * 🖼️ Redimensionamento automático de imagens
 * 📦 Processamento de arquivos em lote
 * 💧 Aplicação automática de marca d’água
-* ⚙️ Automação de tarefas repetitivas
-* 🐍 Desenvolvido utilizando Python
+* ⚙️ Automatização de tarefas repetitivas
 
-🔗 Projeto
-
-⸻
-
-🖥️ Sistema de Gestão
-
-Projeto de sistema administrativo pensado para empresas que precisam centralizar suas operações em um único ambiente.
-
-📊 Funcionalidades
-
-* 👥 Gerenciamento de clientes
-* 📦 Cadastro de produtos
-* 🛒 Controle de pedidos
-* 💰 Gestão financeira
-* 📄 Geração de orçamentos
-* 📈 Dashboard administrativo
-
-🚧 Projeto em desenvolvimento / preparação para publicação.
+<br>
 
 ⸻
 
-🤖 Automações
+🌐 Desenvolvimento Web
 
-Desenvolvimento de ferramentas focadas na redução de tarefas repetitivas e otimização de processos.
+Desenvolvimento de experiências digitais modernas, funcionais e responsivas.
 
-while True:
-    aprender()
-    desenvolver()
-    automatizar()
-    evoluir()
+Criação de aplicações e páginas web voltadas para diferentes segmentos de negócios.
+
+Áreas de aplicação
+
+Clínicas Barbearias Restaurantes Lojas Empresas
+
+Tecnologias
+
+HTML CSS JavaScript
 
 ⸻
 
-## 📊 Meu GitHub
+🔨 Atualmente trabalhando em
+
+Sistema de Gestão        █████████████████░░░  Em desenvolvimento
+Automação                ███████████████░░░░░  Aprimorando
+Desenvolvimento Web      ██████████████░░░░░░  Aprimorando
+Python                   ███████████████░░░░░  Aprimorando
+
+Meu foco atual está no desenvolvimento de projetos que possam ser utilizados em situações reais, principalmente sistemas empresariais e ferramentas de automação.
+
+⸻
+
+🧠 Áreas de Interesse
+
+areas = [
+    "Software Development",
+    "Web Development",
+    "Automation",
+    "APIs",
+    "Artificial Intelligence",
+    "Business Systems"
+]
+
+⸻
+
+🎯 Próximos objetivos
+
+* Evoluir meus conhecimentos em desenvolvimento de software
+* Desenvolver sistemas cada vez mais completos
+* Explorar integração entre sistemas e APIs
+* Aprimorar meus conhecimentos em automação
+* Desenvolver aplicações utilizando Inteligência Artificial
+* Construir projetos reais para meu portfólio
+
+⸻
+
+📫 Entre em contato
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=muriidias&label=Visualizações%20do%20perfil&style=for-the-badge" />
+Tem um projeto ou uma ideia?
 
-<br><br>
+Estou aberto a conversar sobre projetos, desenvolvimento e oportunidades.
 
-⭐ Sempre desenvolvendo novos projetos  
-🐍 Foco em Python e automação  
-🌐 Explorando desenvolvimento web  
-🚀 Construindo meu portfólio profissional
-
-</div>
+<br>
+<br>
+<img src="https://komarev.com/ghpvc/?username=muriidias&label=VISITAS%20AO%20PERFIL&style=flat-square" />
 
 ⸻
 
-📈 Atividade
+Code. Automate. Build. Improve.
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muriidias&theme=tokyo-night&hide_border=true" />
-</div>
-
-⸻
-
-🎯 Atualmente
-
-🔭 Trabalhando em novos sistemas e automações
-
-🌱 Aprimorando meus conhecimentos em desenvolvimento de software
-
-⚙️ Explorando Python e automação
-
-🌐 Desenvolvendo aplicações e sistemas web
-
-🚀 Construindo projetos para meu portfólio profissional
-
-⸻
-
-🏆 Objetivos
-
-Meu objetivo é evoluir constantemente como desenvolvedor, criando projetos capazes de solucionar problemas reais.
-
-Busco desenvolver cada vez mais conhecimentos em:
-
-Desenvolvimento Web • Python • Automação • Sistemas • APIs • Inteligência Artificial
-
-⸻
-
-## 📫 Contato
-
-<div align="center">
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Fale%20comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55SEU_NUMERO)
-
-[![Gmail](https://img.shields.io/badge/Gmail-diaamurillo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diaamurillo@gmail.com)
-
-[![Instagram](https://img.shields.io/badge/Instagram-%40studiomd.co-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/studiomd.co)
-
-[![GitHub](https://img.shields.io/badge/GitHub-muriidias-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muriidias)
-
-</div>
-⸻
-
-<div align="center">
-
-💻 Código + Criatividade + Automação
-
-Obrigado por visitar meu perfil! ⭐
+Desenvolvendo um projeto de cada vez.
 
 </div>
