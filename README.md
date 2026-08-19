@@ -139,18 +139,20 @@ areas = [
 * Construir projetos reais para meu portfólio
 
 ⸻
-
-📫 Entre em contato
+## 📫 Contato
 
 <div align="center">
 
-Tem um projeto ou uma ideia?
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Fale%20comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511970559553)
 
-Estou aberto a conversar sobre projetos, desenvolvimento e oportunidades.
+[![Gmail](https://img.shields.io/badge/Gmail-diaamurillo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diaamurillo@gmail.com)
 
-<br>
-<br>
-<img src="https://komarev.com/ghpvc/?username=muriidias&label=VISITAS%20AO%20PERFIL&style=flat-square" />
+[![Instagram](https://img.shields.io/badge/Instagram-%40studiomd.co-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/studiomd.co)
+
+[![GitHub](https://img.shields.io/badge/GitHub-muriidias-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muriidias)
+
+</div>
+
 
 ⸻
 
