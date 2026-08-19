@@ -152,12 +152,3 @@ areas = [
 [![GitHub](https://img.shields.io/badge/GitHub-muriidias-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muriidias)
 
 </div>
-
-
-⸻
-
-Code. Automate. Build. Improve.
-
-Desenvolvendo um projeto de cada vez.
-
-</div>
