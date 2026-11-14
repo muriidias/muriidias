@@ -35,7 +35,7 @@ Tenho interesse especial em transformar tarefas manuais e repetitivas em process
 <br>
 <div align="center">
 
-Python • HTML • CSS • JavaScript • Git • GitHub
+Python • HTML • Git • GitHub
 
 </div>
 
